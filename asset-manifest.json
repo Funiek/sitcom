@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sitcom/static/css/main.964fdded.css",
+    "main.js": "/sitcom/static/js/main.4d7abc32.js",
+    "static/js/787.8b8a6bbe.chunk.js": "/sitcom/static/js/787.8b8a6bbe.chunk.js",
+    "index.html": "/sitcom/index.html",
+    "main.964fdded.css.map": "/sitcom/static/css/main.964fdded.css.map",
+    "main.4d7abc32.js.map": "/sitcom/static/js/main.4d7abc32.js.map",
+    "787.8b8a6bbe.chunk.js.map": "/sitcom/static/js/787.8b8a6bbe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.4d7abc32.js"
+  ]
+}
